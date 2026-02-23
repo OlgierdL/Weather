@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title">Weather</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="current_temperature_in_c">Current Temperature in %1$s: %2$s°C</string>
+    <string name="n_a">N/A</string>
+    <string name="info">Info</string>
+    <string name="weather">Weather</string>
+</resources>
