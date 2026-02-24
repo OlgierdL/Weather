@@ -7,7 +7,7 @@ import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.weather.model.Weather
-import com.example.weather.model.WeatherApi
+import com.example.weather.network.WeatherApi
 import kotlinx.coroutines.launch
 
 sealed interface WeatherUiState {
